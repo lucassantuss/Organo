@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Botao from '../Botao'
 import Campo from '../Campo'
 import ListaSuspensa from '../ListaSuspensa'
-import './formulario.css'
+import './Formulario.css'
 
 const Formulario = ({aoCadastrar, times, cadastrarTime}) => {
 
